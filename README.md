@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jay Sivadas</h1>
 <h3 align="center">I'm a computer science student at the University of Chicago.</h3>
 
-- 🔭 I’m currently working on [Paragon National Group](https://github.com/ParagonNationalGroup)
+- 🔭 I’m currently working on [Paragon Global Investments](https://github.com/ParagonGlobalInvestments)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jhsivadas?tab=repositories](https://github.com/jhsivadas?tab=repositories)
 
